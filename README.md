@@ -1,6 +1,6 @@
 # 보금자리론 주택 가격 기준 분석
 
-쏘프라이즈 질문에 대한 답변(https://soprize.so/question/63)으로 제출한 내용입니다.
+미디어 플랫폼인 쏘프라이즈(현 얼룩소) 질문에 대한 답변(https://alook.so/posts/QE7tOP)으로 제출한 내용입니다.
 
 
 data
